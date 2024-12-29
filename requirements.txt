@@ -4,3 +4,4 @@ pyromod
 pymongo
 dnspython
 aiohttp
+pyrofork==2.3.45
